@@ -1,0 +1,25 @@
+.home-section__banner {
+  background-image: url(../../assets/images/home-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  min-height: 50vh;
+}
+
+.home-section__overview {
+  background-color: #0082ec;
+}
+
+.home-section__overview .row {
+  min-height: 50vh;
+}
+
+.home-section__icons .row {
+  min-height: 50vh;
+}
+
+/* .home-section__icons .fas {
+  border: 0.25rem solid black;
+  border-radius: 2rem;
+} */

@@ -1,0 +1,11 @@
+.container-fluid {
+  border-top: 0.15rem solid #0082ec;
+}
+
+.footer-section {
+  min-height: 10vh;
+}
+
+.footer-section .row {
+  min-height: 10vh;
+}
