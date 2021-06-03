@@ -1,0 +1,11 @@
+.product-detail-section__product-image {
+  min-height: 85vh;
+  background: url('../../assets/images/product-section-product-1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.product-detail-section__product-description {
+  background-color: #0082ec;
+}
