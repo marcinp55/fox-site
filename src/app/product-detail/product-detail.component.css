@@ -1,5 +1,5 @@
 .product-detail-section__product-image {
-  min-height: 85vh;
+  min-height: 75vh;
   background: url('../../assets/images/product-section-product-1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -8,10 +8,4 @@
 
 .product-detail-section__product-description {
   background-color: #0082ec;
-}
-
-@media (min-width: 992px) {
-  .product-detail-section__product-description__card {
-    height: 100%;
-  }
 }
