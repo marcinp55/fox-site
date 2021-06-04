@@ -9,3 +9,9 @@
 .product-detail-section__product-description {
   background-color: #0082ec;
 }
+
+@media (min-width: 992px) {
+  .product-detail-section__product-description__card {
+    height: 100%;
+  }
+}
