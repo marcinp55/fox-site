@@ -1,0 +1,21 @@
+.contact-section__info-list {
+  min-width: 20rem;
+}
+
+@media (min-width: 576px) {
+  .contact-section__info-list {
+    min-width: 25rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .contact-section__info-list {
+    min-width: 40rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .contact-section__info-list {
+    min-width: 55rem;
+  }
+}
